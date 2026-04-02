@@ -1,6 +1,6 @@
 ## Hi there 👋,I'm **pixelpippy**
 
-- 👨🏻‍🎓A Chinese Student
+- 👨🏻‍🎓A postgraduate student, currently studying at the intersection of affective computing and large language models.
 - 📘I am studying large language models and looking for an AI internship.
 
 ## 📖 **Learning**
